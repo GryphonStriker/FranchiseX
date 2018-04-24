@@ -2,12 +2,8 @@ body {
   background-color: white;
 }
 #banner {
-  width: 40%;
-  height: 275px;
-}
-#logo{
-  height: 100%;
-  Width: 100%;
+  width: 25%;
+  height: 25%;
 }
 #news {
   width: 75%;
