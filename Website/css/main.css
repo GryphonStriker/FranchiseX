@@ -10,6 +10,7 @@ body {
 }
 #navigation {
   float: right;
+  margin: 0px;
 }
 #news {
   width: 75%;
