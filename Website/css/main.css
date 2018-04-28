@@ -7,6 +7,7 @@ body {
   max-width: 325px;
   margin: 0px;
   float: left;
+  padding: 1%;
 }
 #navigation {
   float: right;
@@ -14,11 +15,15 @@ body {
   display: inline-block;
 }
 #news {
-  width: 75%;
+  width: 73%;
   height: 500px;
   margin-right: 0px;
   float: left;
   clear: left;
+  border: 5px;
+  border-color: black;
+  padding-left: 1%;
+  padding-right: 1%;
 }
 #twitter {
   width: 25%;
@@ -26,9 +31,11 @@ body {
   float: right;
 }
 #content {
-  width: 100%;
+  width: 95%;
   height: 1500px;
   clear: both;
+  padding-left: 1%;
+  padding-right: 1%;
 }
 h1 {
   color: black;
