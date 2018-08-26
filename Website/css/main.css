@@ -7,7 +7,7 @@ body {
   max-width: 325px;
   margin: 0px;
   float: left;
-  padding: 1%;
+  padding: .5%;
 }
 #navigation {
   float: right;
@@ -15,8 +15,9 @@ body {
   display: inline-block;
 }
 #news {
-  width: 73%;
-  height: 500px;
+  width: 95%;
+  height: 35vh;
+  max-height: 500px;
   margin-right: 0px;
   float: left;
   clear: left;
@@ -26,21 +27,26 @@ body {
   padding-right: 1%;
 }
 #twitter {
-  width: 25%;
+  width: 75%;
   height: 500px;
-  float: right;
+  padding-left: 13.5%;
+  padding-right: 13.5%;
+  clear: left
 }
 #content {
   width: 95%;
-  height: 1500px;
-  clear: both;
+  clear: left;
+  height: 50vh;
   padding-left: 1%;
   padding-right: 1%;
 }
 h1 {
   color: black;
 }
-
+#staticon {
+  width: 10%;
+  height: 10%;
+}
 
 /*Twitter Embed Styling */
 
